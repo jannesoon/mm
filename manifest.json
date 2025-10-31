@@ -7,12 +7,12 @@
     "theme_color": "#000000",
     "icons": [
       {
-        "src": "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1756312261242_qdqqd_g0eriz.jpeg",
+        "src": "https://saas.chatbot.cn/download/minio/standard/2025-10-31/ba13a321440e4058bde1bb5e4a6a209e.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1756312261242_qdqqd_g0eriz.jpeg",
+        "src": "https://saas.chatbot.cn/download/minio/standard/2025-10-31/ba13a321440e4058bde1bb5e4a6a209e.png",
         "sizes": "512x512",
         "type": "image/png"
       }
